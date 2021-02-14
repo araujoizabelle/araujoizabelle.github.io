@@ -85,6 +85,10 @@ body {
     padding: 4px;
 }
 
+svg:hover path {
+    fill: #d6d6d6;
+}
+
 @media screen and (max-width: 986px) {
     .header {
         display: flex;
